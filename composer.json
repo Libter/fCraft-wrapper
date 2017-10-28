@@ -15,5 +15,5 @@
     "repository": "boleknowak/fcraft-wrapper",
     "require": {
         "php": ">=5.6.28"
-    },
+    }
 }

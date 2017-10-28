@@ -1,6 +1,7 @@
 {
-    "name": "fCraft-wrapper",
-    "version": "1.0.1",
+    "name": "fCraft-wrapper/fCraft-wrapper",
+    "version": "1.0.0",
+    "type": "library",
     "description": "Wrapper dla api.fCraft.pl",
     "keywords": [
         "php",
@@ -11,5 +12,8 @@
     "license": "MIT",
     "author": "boleknowak <kontakt@boleknowak.pl> (https://github.com/boleknowak)",
     "main": "fCraft.php",
-    "repository": "boleknowak/fcraft-wrapper"
+    "repository": "boleknowak/fcraft-wrapper",
+    "require": {
+        "php": ">=5.6.28"
+    },
 }

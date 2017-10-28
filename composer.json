@@ -10,6 +10,6 @@
     "bugs": "https://github.com/boleknowak/fCraft-wrapper/issues",
     "license": "MIT",
     "author": "boleknowak <kontakt@boleknowak.pl> (https://github.com/boleknowak)",
-    "main": "index.js",
+    "main": "fCraft.php",
     "repository": "boleknowak/fcraft-wrapper"
 }

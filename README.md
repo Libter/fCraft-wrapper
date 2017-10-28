@@ -1,6 +1,12 @@
 # fCraft-wrapper
 Jest to bardzo fajny wrapper do API od fCraft.pl
 
+## Pobieranie
+Żeby pobrać tego wrappera, można użyć composera.
+`composer require fcraft-wrapper/fcraft-wrapper`
+
+Zobacz na: [packagist.org](https://packagist.org/packages/fcraft-wrapper/fcraft-wrapper)
+
 ## Zastosowanie
 Na samym początku trzeba stworzyć klasę, w którym podamy nasz klucz
 ```php

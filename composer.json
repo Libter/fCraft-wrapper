@@ -1,0 +1,15 @@
+{
+    "name": "fCraft-wrapper",
+    "version": "1.0.1",
+    "description": "Wrapper dla api.fCraft.pl",
+    "keywords": [
+        "php",
+        "api-wrapper"
+    ],
+    "homepage": "https://github.com/boleknowak/fCraft-wrapper",
+    "bugs": "https://github.com/boleknowak/fCraft-wrapper/issues",
+    "license": "MIT",
+    "author": "boleknowak <kontakt@boleknowak.pl> (https://github.com/boleknowak)",
+    "main": "index.js",
+    "repository": "boleknowak/fcraft-wrapper"
+}
